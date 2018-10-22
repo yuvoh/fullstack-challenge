@@ -1,38 +1,42 @@
 # CopoFi Full-stack Challenge
-## Movie Database Manager
+## Movie Database Tool
 
-Thank you for taking the time to do our technical test.
+Thank you for taking the time to do our technical test, we know they take a while to complete, but they provide us invaluable information to ensure we hire the best people!
 
-You will be building a small app that integrates into a movies database. You will be building the front-end and an API that integrates with the database.
+You will be building a small web app that integrates into a movies database. You will be building the front-end and an API that interacts with the database. You'll find below the product specifications (in the form of user stories) and technical specifications your app should meet. The task is fairly open-ended, so build the app as you see fit, and feel free to extend the functionality with some idea of your own if you wish.
 
 ### Product Specifications
 Your app should satisfy the following four user stories:
 
 **As a** user running the application
 **I can** search for movies by their title
-**So that** I can find the movie I'm looking for
+**So that** I can find the movie I'm looking for.
 
 **As a** user running the application
 **I can** view the rank of each movie
-**So that** I know which movies are highly rated
+**So that** I know which movies are highly rated.
 
 **As a** user running the application
 **I can** see the director, and the list of actors with the roles they played for each movie
-**So that** I am able to check the cast of a movie
+**So that** I am able to check the cast of a movie.
 
 **As a** user running the application
 **I can** add a new movie and set the genre
-**So that** I keep the movie database up-to-date
+**So that** I keep the movie database up-to-date.
 
 **As a** user running the application
 **I can** assign a director and actors with their roles to a movie
-**So that** I am able to update the cast of new movies
+**So that** I am able to update the cast of new movies.
 
-#### Optional Extension
+#### Optional Extensions
 
 **As a** user running the application
 **I can** see the highest ranking movie of each decade
 **So that** I know which was the best movie each decade.
+
+**As a** user running the application
+**I can** validate the title and year when adding new movies
+**So that** there are no duplicate movies in the database.
 
 ## Technical Specification
 
@@ -54,10 +58,8 @@ database=```imdb```,
 username=```copofi```,
 password=```copofi```
 
-
 ### Platform choice
 - The API should be built using Node.js. You may use a framework on top (such as Express) if you wish.
-
 - The front-end should be built using a modern web framework (e.g React, Angular)
 
 ## Guidelines
@@ -68,11 +70,15 @@ password=```copofi```
 ## Submission
 Your project should contain everything needed to run your app, *excluding* your ```node_modules``` folder.
 
-Please include a README file explaining the step(s) needed to run your app.
+Please include a README file explaining the step(s) needed to run your app along with the answers to the following questions:
 
-Place your project in a ZIP file and email it us when complete, along with the answers to the following questions (you may place the answers in the ZIP file):
-
-1. How long did you spend on the test?
+1. How long did you spend on the challenge?
 2. What would you add to your solution if you had more time?
 3. Is there anything about the full-stack challenge you did not like?
 4. Any other comments!
+
+You can either place your project in a ZIP file and email it to us **OR** upload it to a GIT repository and send us a link.
+
+Thanks for your time, and happy coding!
+
+
