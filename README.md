@@ -44,11 +44,11 @@ The database runs on a MySQL server hosted in the cloud. Below are the schema an
 
 To connect:
 
-host=```imdb.yuvoh.com```
-database=```imdb```,
-username=```candidate```,
-password=```yuvoh```
-port=```3306```
+- host=```imdb.yuvoh.com```
+- database=```imdb```,
+- username=```candidate```,
+- password=```yuvoh```
+- port=```3306```
 
 ### Platform choice
 - The API should be built using Node.js. You may use a framework on top (such as Express) if you wish.
