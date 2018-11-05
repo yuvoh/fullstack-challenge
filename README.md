@@ -45,8 +45,8 @@ The database runs on a MySQL server hosted in the cloud. Below are the schema an
 To connect:
 
 - host=```imdb.yuvoh.com```
-- database=```imdb```,
-- username=```candidate```,
+- database=```imdb```
+- username=```candidate```
 - password=```yuvoh```
 - port=```3306```
 
